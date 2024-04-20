@@ -25,6 +25,8 @@ Finds all turkish words from Turkish Language Institue (https://sozluk.gov.tr/) 
 
 **The most amount of dot(.) in single word is '13' in the word:** "düşündürücülük"
 
+**The most amount of words inside a single Turkish word is '31' (excluding themselves and one-lettered words) in these words :** "ademimerkeziyetçilik", "bombalatabilmek", "demokratikleştirebilmek", "yakalatabilmek"
+
 //For non-toxic Usage : 
 
 **The amount of single words that end with "ez" is '88', They are :** "balyemEZ", "diyEZ", "obEZ", "bEZ", "bilmEZ", "ontogenEZ", "karyokinEZ", "iyilikbilmEZ", "metatEZ", "anamnEZ", "çepEZ", "firEZ", "göbelEZ", "kEZ", "sözünübilmEZ", "polonEZ", "enEZ", "ortEZ", "pekmEZ", "mayonEZ", "dudakdeğmEZ", "filogenEZ", "ançüEZ", "tEZ", "beşbenzemEZ", "kurşungeçirmEZ", "muazzEZ", "körfEZ", "çömEZ", "epigenEZ", "güngörmEZ", "karıncaEZmEZ", "mücehhEZ", "etyemEZ", "güvEZ", "çerkEZ", "ölmEZ", "odontojenEZ", "müfrEZ", "kadirbilmEZ", "beklenmEZ", "pünEZ", "değişmEZ", "görünmEZ", "hüryemEZ", "trapEZ", "protEZ", "gEZ", "görmEZ", "karıncaincitmEZ", "tükenmEZ", "benzemEZ", "varyemEZ", "falEZ", "üvEZ", "kargasekmEZ", "bölünmEZ", "sugötürmEZ", "antrparantEZ", "sözgötürmEZ", "değerbilmEZ", "lebdeğmEZ", "merkEZ", "bilinmEZ", "eğrEZ", "çerEZ", "kerkenEZ", "menfEZ", "hâletinEZ", "sentEZ", "fernEZ", "bilinemEZ", "melEZ", "kepEZ", "straplEZ", "tartışmagötürmEZ", "interkinEZ", "renksemEZ", "hıdırellEZ", "çekelEZ", "çekemEZ", "manganEZ", "hipotEZ", "partenogenEZ", "parantEZ", "geçmEZ", "fotosentEZ", "antitEZ"
