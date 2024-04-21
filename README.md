@@ -1,6 +1,9 @@
+
+
 # TDKDictionaryWordAndStatistics
 Finds all turkish words from Turkish Language Institue (https://sozluk.gov.tr/) and writes them into a file for future projects/brute force attacks/games which need words etc.
 
+![image](https://github.com/pr0mers/TDKDictionaryWordAndStatistics/assets/86203241/03373aee-7d2f-4973-a470-b40ad92c0f92)
 
 # Some Statistics
 **The most frequent letter count in Turkish words is '8', occurring in 9290 words. And the longest word is "milletlerarasılaştırılmak" which has 25 letters.**
@@ -35,4 +38,3 @@ Finds all turkish words from Turkish Language Institue (https://sozluk.gov.tr/) 
 
 
 
-![image](https://github.com/pr0mers/TDKDictionaryWordAndStatistics/assets/86203241/03373aee-7d2f-4973-a470-b40ad92c0f92)
