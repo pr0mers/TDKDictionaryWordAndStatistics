@@ -28,7 +28,7 @@ def oyunbaslat():
         while(oyun[soru]=="-"):
             dogru=dogru+1
             soru=soru+1
-        print(oyun[soru])
+        #print(oyun[soru])
         kel=urllib.parse.quote(oyun[soru])
         url = f"https://sozluk.gov.tr/gts?ara={kel}"
         response = requests.get(url,headers=headers)
@@ -71,4 +71,5 @@ for kelime in siralanmis_kelimeler:
 
 
 oyunbaslat()
+
 
